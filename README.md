@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hello, I'm Utku Buğra Yılmaz 👋
 
-I am a computer engineering student and a solution-oriented software developer. I am passionately committed to using technology for societal benefit and contributing to the open-source world.
+I am a recent Computer Engineering graduate and an enthusiastic, solution-oriented software developer. I am passionate about leveraging technology to benefit society and eager to contribute to the open-source community.
 
 ## 🔭 Current Focus Areas
 
